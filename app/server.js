@@ -2,13 +2,9 @@ require('dotenv').config()
 const express = require('express')
 const app = express()
 
-const isNumber = /^-?\d+$/.test(process.env.NUMBER_ENV)
-console.log(process.env.CUSTOM_ENV)
-console.log(process.env.CUSTOM_ENV.replace(/['‘’"“”]/g, ''))
-console.log(process.env.SPECIAL_ENV)
-console.log(process.env.ANOTHER_SPECIAL)
-console.log(process.env.NUMBER_ENV)
-console.log(isNumber)
+
+console.log("NODE_ENV in production: ", process.env.NODE_ENV)
+
 
 app.get('/', async (req, res) => {
     res.send("Hello World")
