@@ -3,7 +3,7 @@ const express = require('express')
 const app = express()
 
 
-console.log("NODE_ENV in production: ", process.env.NODE_ENV)
+console.log("Hello world")
 
 
 app.get('/', async (req, res) => {
