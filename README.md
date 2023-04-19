@@ -16,7 +16,7 @@ Get started for free, the first $20 is on us!
 During the deployment process Kinsta will automatically install dependencies defined in your `package.json` file.
 
 ## Web Server Setup
-fff
+
 ### Port
 Kinsta automatically sets the `PORT` environment variable. You should **not** define it yourself and you should **not** hard-code it into the application. Use `process.env.PORT` in your code when referring to the server port. 
 
