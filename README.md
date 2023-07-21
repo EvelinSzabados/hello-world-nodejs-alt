@@ -13,7 +13,7 @@ vw2vw
 [Database Hosting](https://kinsta.com/database-hosting)
 
 ## Dependency Management
-During the deployment process Kinsta will automatically install dependencies defined in your `package.json` file.
+During the deployment process Kinsta will automatigrwgwrgwcally install dependencies defined in your `package.json` file.
 
 ## Web Server Setup
 
