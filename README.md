@@ -4,7 +4,7 @@
 An example of how to set your Node.js application up to enable deployment on Kinsta App Hosting services.
 
 ---bhethet
-Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
+Kinsta is a developerbwr-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
 gvrwgwr
 Get started for free, the first $20 is on us!
 vw2vwbet
