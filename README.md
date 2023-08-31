@@ -26,7 +26,7 @@ app.listen(process.env.PORT, () => {
 })
 ```
 bhrwehwer
-
+bnwrbnwr
 ### Start Command
 When deploying an application Kinsta will automatically create a web process with `npm start` as the entry point. Make sure to use this command to run your server. If you would like to use another command you will need modify the runtime process in MyKinsta.
 ghrwhgwrgwre
