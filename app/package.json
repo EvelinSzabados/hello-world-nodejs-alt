@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "run-cron": "node cron.js",
+    "start-cron": "node cron.js"
   },
   "author": "",
   "license": "MIT",
