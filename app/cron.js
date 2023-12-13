@@ -5,5 +5,5 @@ var job = new CronJob(`* * * * * *`, async () => {
 
 }, null, true, 'America/Los_Angeles');
 
-console.log('Starting cron')
+console.log('Starting cron mod two')
 job.start();
